@@ -1,0 +1,16 @@
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\appsettings.json
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.deps.json
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.runtimeconfig.json
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.runtimeconfig.dev.json
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.dll
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.pdb
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Impl.dll
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Protocol.dll
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Impl.pdb
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Protocol.pdb
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.csprojResolveAssemblyReference.cache
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.csproj.CoreCompileInputs.cache
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.AssemblyInfoInputs.cache
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.AssemblyInfo.cs
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.dll
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.pdb

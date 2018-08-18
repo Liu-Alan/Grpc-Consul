@@ -1,0 +1,9 @@
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Protocol\bin\Debug\netstandard2.0\Snai.GrpcService.Protocol.deps.json
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Protocol\bin\Debug\netstandard2.0\Snai.GrpcService.Protocol.dll
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Protocol\bin\Debug\netstandard2.0\Snai.GrpcService.Protocol.pdb
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.csproj.CoreCompileInputs.cache
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.AssemblyInfoInputs.cache
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.AssemblyInfo.cs
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.dll
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.pdb
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.csprojResolveAssemblyReference.cache

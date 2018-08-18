@@ -1,0 +1,14 @@
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\bin\Debug\netcoreapp2.0\appsettings.json
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcClient.deps.json
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcClient.runtimeconfig.json
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcClient.runtimeconfig.dev.json
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcClient.dll
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcClient.pdb
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcService.Protocol.dll
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcService.Protocol.pdb
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.csprojResolveAssemblyReference.cache
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.csproj.CoreCompileInputs.cache
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.AssemblyInfoInputs.cache
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.AssemblyInfo.cs
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.dll
+E:\学习资料\DotNet\开发目录\Grpc Consul\Snai.GrpcService\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.pdb
